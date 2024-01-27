@@ -3,7 +3,7 @@ body{
     font-family: 'Inter', sans-serif;
     background-color: black;
     color: white;}
-.div1,.div3,.div4{margin-bottom: 150px;}
+.div1,.div3,.div4{margin: 75px 0px;}
 .div2 {
     display: inline-block; 
     text-transform: capitalize; 
